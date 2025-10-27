@@ -24,7 +24,6 @@ export default function SiteFooter() {
               <div className="font-semibold text-gray-700 mb-2">Contato</div>
               <ul className="space-y-1 text-gray-600">
                 <li><a href="#cta" className="hover:text-gray-900">Fale comigo</a></li>
-                <li><a href="mailto:contato@example.com" className="hover:text-gray-900">contato@example.com</a></li>
               </ul>
             </div>
             <div>
